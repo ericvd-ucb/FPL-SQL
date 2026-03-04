@@ -44,3 +44,4 @@ plotly>=6,<7
 bqplot
 
 jupysql
+plotly
